@@ -2,5 +2,5 @@
 @section('pages')
 
 
-<p>Hello tin tuwcs</p>
+<p>Hello tin</p>
 @endsection
